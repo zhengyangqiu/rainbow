@@ -1,7 +1,13 @@
 # rainbow
-learn from youtube
+learn from youtube and bilibili
 
 hello worold
 
 
 i am zhengyang qiu
+
+yello 
+
+red
+
+blue
